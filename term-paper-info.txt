@@ -1,0 +1,6 @@
+Topic: Distributed Caching
+Title: Cooperative Caching in Wireless and Edge Networks: Methods Applications, and Challenges
+Sources:
+https://pubmed.ncbi.nlm.nih.gov/40006486/
+https://ieeexplore.ieee.org/abstract/document/1542018
+https://ieeexplore.ieee.org/abstract/document/10973056
